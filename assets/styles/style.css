@@ -1,0 +1,142 @@
+.btn-basket,
+.virtual__real_btn,
+.btn-subscribe {
+    background-color: #5222D0;
+    color: white;
+}
+
+.btn-basket {
+    padding-bottom: 8px;
+}
+
+.navbar {
+    margin-top: 50px;
+    margin-left: 76px;
+    margin-right: 74px;
+    margin-bottom: 76px;
+}
+
+.bi {
+    padding-left: 5px;
+    background-image: url('/assets/images/ico.png');
+    background-repeat: no-repeat;
+    padding-right: 8px;
+    margin-left: 5px;
+}
+
+.virtual__real {
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.virtual__real_best {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    padding-left: 0%;
+    margin-top: 10px;
+    align-items: center;
+    color: #000000;
+    line-height: 160%;
+}
+
+.virtual__real_btn {
+    font-size: 35px;
+    font-weight: 700;
+    padding-bottom: 20px;
+    height: 84px;
+}
+
+.bi-pay {
+    background-image: url('/assets/images/ico\ \(1\).png');
+    background-repeat: no-repeat;
+    padding-right: 50px;
+    margin-left: 14px;
+    height: 28px;
+}
+
+.boy {
+    height: 724.31px;
+}
+
+@media screen and (max-width:768px) {
+    .boy {
+        display: none;
+    }
+}
+
+.virtual__nav {
+    margin-top: 167px;
+    font-size: 20px;
+
+}
+
+.nav-link {
+    color: #5222D0;
+    font-size: 20px;
+    line-height: 160%;
+    font-weight: 300;
+}
+
+.virtual__real_opportunities {
+    font-family: 'Inter', sans-serif;
+    margin-top: 89px;
+    margin-left: 92px;
+}
+
+.card__men,
+.card__robot,
+.card__girl {
+    background-color: #EC615B;
+}
+
+.card-title {
+    font-family: 'Inter', sans-serif;
+    line-height: 120%;
+    height: 36px;
+}
+
+.row__cards {
+    margin-left: 92px;
+    margin-right: 72px;
+}
+
+.card__1,
+.card__4 {
+    border: 1px solid #EC615B;
+}
+
+.card__2,
+.card__3,
+.card__5 {
+    border: none;
+}
+
+.btn-subscribe {
+    margin-top: 23px;
+    margin-bottom: 55px;
+    width: 135px;
+}
+
+.card__6 {
+    background-color: #EC615B;
+    border: none;
+}
+
+.footer__nav {
+    margin-left: 126px;
+    margin-top: 86px;
+    margin-bottom: 80px;
+}
+
+.card-text {
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-link_end {
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 160%;
+}
